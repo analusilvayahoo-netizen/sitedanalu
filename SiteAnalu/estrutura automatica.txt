@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>
+</title>
+</head>
+<body background="ICONICO.gif"
+<hr>
+<hr size=20 color="black" width=80% align="right">
+  <h3>É o poder, aceita porque dói menos!</h3>
+  	<br><img src="NAZAREFEIA.gif"<br>	
+
+</body>
+</html>
